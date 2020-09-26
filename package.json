@@ -1,0 +1,20 @@
+{
+  "name": "image2cpp-master",
+  "version": "1.0.0",
+  "description": "Use this tool online at http://javl.github.io/image2cpp/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Hamza",
+  "license": "ISC",
+  "engines": {
+    "node": "12.3.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
